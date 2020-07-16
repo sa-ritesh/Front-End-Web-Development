@@ -20,7 +20,7 @@ main{
     background-image: linear-gradient(to top,#e5e9dc,#FFF);
 }
 #site-title a:hover {
-    color: #dc6520;
+    color: aquamarine;
 }
 
 #about-site {
